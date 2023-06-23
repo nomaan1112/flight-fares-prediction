@@ -73,6 +73,6 @@ Both the instance and batch prediction can be performed using the code. The app.
 
 AWS’s EC2 and ECR are used to deploy the instance prediction model.
 
-# Thanks!!
+# Thanks!!!
 
  
