@@ -1,0 +1,11 @@
+artifact
+logs
+notebook
+*.egg-info
+.env
+data_dump.py
+main.py
+README.md
+Prediction_Output
+input_files
+ffp.xlsx
