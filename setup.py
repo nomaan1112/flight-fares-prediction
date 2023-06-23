@@ -19,8 +19,8 @@ def get_requirements()->List[str]:
 setup(
     name = "flight_fare_prediction",
     version = "0.0.1",
-    author = "Rajesh",
-    author_email = "rajesh29049495@gmail.com",
+    author = "Nomaan",
+    author_email = "nomaanansarii100@gmail.com",
     packages = find_packages(),
     install_requires = get_requirements()
 )

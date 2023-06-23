@@ -1,0 +1,35 @@
+/* Set background color of body */
+body {
+  background-color: #e4e5e6;
+}
+
+/* Set background color and text alignment of h1 element */
+h1 {
+  background-color: #009FFD;
+  text-align: center;
+}
+
+/* Set styles for form elements */
+form {
+  margin-top: 30px;
+  text-align: left;
+}
+
+label {
+  font-weight: bold;
+}
+
+select,
+input[type="datetime-local"],
+input[type="time"] {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+}
+
+/* Set styles for login container */
+.login {
+  margin: auto;
+  max-width: 500px;
+  padding: 20px;
+}
