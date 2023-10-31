@@ -13,7 +13,8 @@ import numpy as np
 import datetime as dt
 import pickle
 
-app = Flask(__name__)
+application = Flask(__name__)
+app = application
 
 logging.info(f"Loading latest model from saved_models")
 
