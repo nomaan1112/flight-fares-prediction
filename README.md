@@ -75,4 +75,6 @@ AWS’s EC2 and ECR are used to deploy the instance prediction model.
 
 # Thanks!!!
 
+
+URI: public.ecr.aws/u1q0d2z7/flight-fares-prediction
  
